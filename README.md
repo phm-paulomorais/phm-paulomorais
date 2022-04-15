@@ -14,7 +14,8 @@ I am currently working as a fullstack developer using Angular + Spring Boot tech
 <li>Java</li>
 <li>React Native</li>
 <li>React JS</li>
-<li>Postgres</li>
+<li>PostgreSQL</li>
+<li>Docker</li>
 </ul>
 
 <!--
